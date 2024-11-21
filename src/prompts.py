@@ -43,6 +43,7 @@ Requirements:
 - Minimize comma usage
 - Make it conversational
 - Be direct and clear, every sentence should be straight to the point
+- Be clear in what you are offering and what problem it solves
 """
 
 GRAMMAR_REVIEW_TEMPLATE = """Review and correct this email for grammar while maintaining its message:
