@@ -25,11 +25,13 @@ python src/usage_example.py
 You can edit the data in `src/data/train.csv` to test your own prospects.
 
 ## Next steps
+
+- More information should be used to draft the email.  see the TODOs in the main.py file.
+
+
 - Perplexity can be used to parse for features, like the style maybe should be extracted with perplexity. 
 
 - Obvious personalization based on a shallow information is not good we should dig deeper.
-
-- More information should be used to draft the email.  see the TODOs in the main.py file.
 
 - I only used gpt4, did not extensively experiment.
 
