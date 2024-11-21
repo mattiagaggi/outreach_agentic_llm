@@ -22,6 +22,8 @@ OPENAI_API_KEY=your_key_here
 python src/usage_example.py
 ```
 
+You can edit the data in `src/data/train.csv` to test your own prospects.
+
 ## Next steps
 - Perplexity can be used to parse for features, like the style maybe should be extracted with perplexity. 
 
