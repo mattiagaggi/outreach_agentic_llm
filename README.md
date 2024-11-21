@@ -27,9 +27,10 @@ You can edit the data in `src/data/train.csv` to test your own prospects.
 ## Next steps
 
 - More information should be used to draft the email.  see the TODOs in the main.py file.
+Without this I would not do a proper evaluation as we need this info.
 
 
-- Perplexity can be used to parse for features, like the style maybe should be extracted with perplexity. 
+- Perplexity can be used to parse for the missing info that we need, like the style, the problem statement etc maybe should be extracted with perplexity. 
 
 - Obvious personalization based on a shallow information is not good we should dig deeper.
 
