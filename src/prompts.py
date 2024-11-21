@@ -60,7 +60,7 @@ Style Guidelines for {style}:
 Original email:
 {email}
 
-Please revise while maintaining the determined style. Also don't use typical words that come out of LLMs and make sure it is the most natural sounding as possible"""
+Please revise while maintaining the determined style. Also don't use typical words that come out of LLMs and make sure it is the most natural sounding as possible. FInally avoid using commas the sentences should be straight to the point."""
 
 EXTRACT_STYLE_TEMPLATE = """Determine the most appropriate email style based on:
 

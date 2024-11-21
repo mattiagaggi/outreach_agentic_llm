@@ -28,8 +28,11 @@ You can edit the data in `src/data/train.csv` to test your own prospects.
 - Perplexity can be used to parse for features, like the style maybe should be extracted with perplexity. 
 
 - Obvious personalization based on a shallow information is not good we should dig deeper.
+
 - More information should be used to draft the email.  see the TODOs in the main.py file.
 
-- I only used gpt4, did not extensively experiment
+- I only used gpt4, did not extensively experiment.
 
-- For the real vs fake sounding maybe we should train a discriminative model, that would be a good way to get metrics out of this (LLMs are not reliable)
+- For the real vs fake sounding maybe we should train a discriminative model, that would be a good way to get metrics out of this (LLMs are not reliable). It would be also a good way to actually do incremental improvements to the email generation.
+
+- Any next step I give you now is not great as it should come from the user feedback
