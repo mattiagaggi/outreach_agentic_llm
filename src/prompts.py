@@ -42,7 +42,7 @@ Requirements:
 - Keep it under 50 words
 - Minimize comma usage
 - Make it conversational
-- Be direct and clear
+- Be direct and clear, every sentence should be straight to the point
 """
 
 GRAMMAR_REVIEW_TEMPLATE = """Review and correct this email for grammar while maintaining its message:
